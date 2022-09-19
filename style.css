@@ -1,0 +1,27 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.landing{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+
+.distortion {
+    width:600px;
+    height: 450px;
+    align-self: flex-end;
+}
+.intro {
+    align-self: center;
+}
+
+.intro h2 {
+    font-size: 40px;
+}
+.intro p {
+    font-size: 26px;
+}
